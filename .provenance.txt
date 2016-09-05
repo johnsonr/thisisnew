@@ -1,0 +1,12 @@
+
+
+Parameter values (passed in on template invocation):
+project_name='thisisnew'
+artifact_id='thisisnew'
+group_id='johnsonr'
+version='0.0.1-SNAPSHOT'
+description='New demo project'
+root_package='org.johnsonr'
+service_class_name='ThisIsNew'
+
+Computed parameter values (computed based on parameter values passed in):
